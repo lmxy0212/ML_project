@@ -5,6 +5,8 @@ The project guideline is attached below:
 
 [project guideline](/project_guidelines.pdf)
 
+[project_report](/ML_Project_Report.pdf)
+
 ## Contributors
 
 The project was originally developed by:
