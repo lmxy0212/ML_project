@@ -5,11 +5,7 @@ The project guideline is attached below:
 
 [project guideline](/project_guidelines.pdf)
 
-<object data="https://github.com/lmxy0212/ML_project/blob/master/ML_Project_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/lmxy0212/ML_project/blob/master/ML_Project_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lmxy0212/ML_project/blob/master/ML_Project_Report.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[project report](/ML_Project_Report.pdf)
 
 ## Contributors
 
