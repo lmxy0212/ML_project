@@ -7,7 +7,7 @@ The project guideline is attached below:
 
 [project report](/ML_Project_Report.pdf)
 
-[project_presentation](/ML Presentation.pdf)
+[project_presentation](/ML_presentation.pdf)
 
 ## Contributors
 
