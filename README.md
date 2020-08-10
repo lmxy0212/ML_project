@@ -1,5 +1,5 @@
-# ML_project
-This is a machine learning project for CS-UY4563
+# Machine Learning project
+This is a machine learning project to examine the factors that drives Airbnb rentals to success across NYC.
 
 The project guideline is attached below:
 
