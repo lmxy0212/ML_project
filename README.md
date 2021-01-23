@@ -12,6 +12,7 @@ The project guideline is attached below:
 ## Contributors
 
 The project was originally developed by:
+* [Me](https://github.com/lmxy0212/ML_project), CS, NYU
 * [Ava Zheng](https://github.com/evve212233/Machine-Learning), CS, NYU
-* [Manxueying Li](https://github.com/lmxy0212/ML_project), CS, NYU
+
 
